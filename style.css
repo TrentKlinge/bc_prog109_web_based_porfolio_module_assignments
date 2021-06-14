@@ -6,7 +6,8 @@
 #header {
   text-align: center;}
 
-#pageContent {
+ul#pageContent li {
+  display: block;
   margin: 1%;
   background-color: #000000;
   color: #ffffff;

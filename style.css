@@ -6,11 +6,10 @@
 #header {
   text-align: center;}
 
-ul#pageContent li {
+#pageContent {
   display: block;
   margin: 1%;
-  background-color: #000000;
-  color: #ffffff;
+  background-color: #ffffff;
   padding: 0.5em 0;}
 
 li {
